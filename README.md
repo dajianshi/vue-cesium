@@ -1,5 +1,7 @@
 # vue-cesium
 
+[vue+cesium 100+ demos](https://blog.csdn.net/cuclife/category_11992805.html)
+
 ## Project setup
 ```
 npm install
